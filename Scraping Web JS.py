@@ -66,4 +66,4 @@ while True:
             break
         
 
-
+data.to_csv('Loker Semarang.csv')
